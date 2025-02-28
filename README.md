@@ -1,4 +1,4 @@
-# propendaAPIClient
+# Propenda API Client
 
 **Push- en pull-client voor gegevenssynchronisatie tussen verschillende hosts en klantlocaties.**
 
