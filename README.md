@@ -4,7 +4,7 @@
 
 ## 🔗 Immo.Estate Open-Source Client voor Gegevenssynchronisatie
 
-Welkom bij de [Immo.Estate](https://immo.estate/) Open-Source Client, een krachtige tool voor push- en pull-gegevenssynchronisatie tussen verschillende hosts en klantlocaties. Deze client is ontworpen om vastgoedgegevens uit te wisselen tussen [Propenda.be](https://propenda.be/) en Immo.Estate met behulp van een efficiënte API-integratie.
+Welkom bij de [Immo](https://immo.estate/) Open-Source Client, een krachtige tool voor push- en pull-gegevenssynchronisatie tussen verschillende hosts en klantlocaties. Deze client is ontworpen om vastgoedgegevens uit te wisselen tussen [Propenda](https://propenda.be/) en Immo.Estate met behulp van een efficiënte API-integratie.
 
 ## 🌍 Wat doet deze client?
 - Synchroniseert vastgoedgegevens automatisch tussen Propenda.be en Immo.Estate
